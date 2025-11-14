@@ -1,4 +1,4 @@
-ARG BASE_IMAGE=m1k1o/neko:arm-base
+ARG BASE_IMAGE=ghcr.io/m1k1o/neko/arm-firefox:latest
 FROM $BASE_IMAGE
 
 #
